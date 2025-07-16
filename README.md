@@ -14,6 +14,10 @@ I'm Ashley, a student at Brigham Young University-Idaho interested in web design
 - Programming Languages: HTMl, CSS, JavaScript, Python, C#, React, MySQL, Postgres, 
 - Skills: Problem Solving, Teamwork, Critical Thinking
 
+## My Favorite Projects
+https://ashesmsmith.github.io/wdd230/final-scoots/index.html
+https://ashesmsmith.github.io/Final/index.html
+
 ## Let's Connect!
 
 - Here is my LinkedIn profile - www.linkedin.com/in/ashley-s-544164121
