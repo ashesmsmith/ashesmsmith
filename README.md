@@ -16,6 +16,7 @@ I'm Ashley, a student at Brigham Young University-Idaho interested in web design
 
 ## My Favorite Projects
 https://ashesmsmith.github.io/wdd230/final-scoots/index.html
+
 https://ashesmsmith.github.io/Final/index.html
 
 ## Let's Connect!
