@@ -21,7 +21,7 @@ https://ashesmsmith.github.io/Final/index.html
 
 ## Let's Connect!
 
-- Here is my LinkedIn profile - www.linkedin.com/in/ashley-s-544164121
+- Here is my LinkedIn profile - www.linkedin.com/in/ashley-s-544164121 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories and don't hesitate to reach out.
 
