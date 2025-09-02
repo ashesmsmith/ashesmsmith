@@ -1,13 +1,16 @@
 # Ashley Smith
 
 Hello, GitHub! 👋
+Welcome to my GitHub profile!
 
-I'm Ashley, a student at Brigham Young University-Idaho interested in web design and software development. Welcome to my GitHub profile!
+I'm Ashley, a student at Brigham Young University-Idaho studying Software Development. I currently have my certificates in Web & Computer Programming and Web Development. I am working toward my certificate and bachelors degree in Software Development.
 
 ## About Me
 
-- I'm currently learning software development
-- My goals are to finish my Software Development Bachelors Degree and help small businesses have resposive, functional websites that increase their sales
+- My goal is to finish my degree and help small businesses have resposive, functional websites and apps to help increase their success.
+- I love the creativity involved with Frontend Development. Picking colors, fonts and layouts is one of the best parts.
+- I enjoy the problem solving of Backend Development. When the button click finally does exactly what I want, it's exciting.
+- I have work experience as a Data Specialist and enjoying having a better understanding of how databases work now.
 
 ## Technologies and Tools
 <div>
