@@ -20,14 +20,12 @@ I'm Ashley, a Software Developer with a Bachelor of Science in Software Developm
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title= "CSharp" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title= "React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title= "Nextjs" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title= "Nextjs" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mogodb/mongodb-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title= "MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title= "PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mogodb/mongodb-original.svg" title= "MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title= "Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title= "Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 </div>
 
 - Languages: HTML, CSS, JavaScript, TypeScript, Python, C#
